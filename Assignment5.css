@@ -1,0 +1,17 @@
+#scoreButton, #speedButton {
+background-color: #eca63c; 
+color: #cc4b00; 
+border: 2px solid #cc5200;
+width: 100px;
+height: 40px;
+}
+            
+#score {
+font-size: 20px;
+color: rgb(255, 0, 0);
+}
+
+#title {
+font-size: 30px;
+ color: rgb(255, 0, 0);
+}
