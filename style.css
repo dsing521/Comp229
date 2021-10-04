@@ -1,0 +1,39 @@
+/*
+File name : style.css
+Student’s Name : Damandeep Singh
+StudentID : 301170650
+Date : 10th oct, 2021
+*/
+.container {
+	width: 100%; 
+	background-color: #fefbf5; 
+}
+
+body {
+	font-size: 100%; 
+	line-height: 2em; 
+	font-family: 'Open Sans', sans-serif;
+	padding: 2%; 
+	background-color: #fefbf5; 
+}
+
+p {
+	font-size: 1.4em; 
+	color: #666666; 
+	font-weight: 300; 
+	padding: 2%; 	
+}
+
+.facts p {
+	line-height: 1.6em; 
+}
+
+
+
+
+
+
+
+
+
+
